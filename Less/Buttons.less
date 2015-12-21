@@ -1,0 +1,19 @@
+@import "Variables";
+
+.btn-repu{
+  font-family: Oswald-Regular;
+  color: @color-text-button;
+}
+
+.btn-repu-md{
+  font-size: 18px;
+}
+
+.btn-repu-primary{
+  .btn-repu;
+  background-color: @main-blue;
+
+  &:hover, &:active{
+    background-color: @color-background-button-hover;
+  }
+}

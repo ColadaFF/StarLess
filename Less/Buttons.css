@@ -1,0 +1,16 @@
+.btn-repu {
+  font-family: Oswald-Regular;
+  color: #FFFFFF;
+}
+.btn-repu-md {
+  font-size: 18px;
+}
+.btn-repu-primary {
+  font-family: Oswald-Regular;
+  color: #FFFFFF;
+  background-color: #214068;
+}
+.btn-repu-primary:hover,
+.btn-repu-primary:active {
+  background-color: #686868;
+}

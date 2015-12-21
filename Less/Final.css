@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('../Fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+  src: url('../Fonts/Roboto/Roboto-Regular-webfont.eot');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'Oswald-Regular';
+  src: url('../Fonts/Oswald/Oswald-Regular.ttf') format('truetype');
+  font-weight: 200;
+}
+.btn-repu {
+  font-family: Oswald-Regular;
+  color: #FFFFFF;
+}
+.btn-repu-md {
+  font-size: 18px;
+}
+.btn-repu-primary {
+  font-family: Oswald-Regular;
+  color: #FFFFFF;
+  background-color: #214068;
+}
+.btn-repu-primary:hover,
+.btn-repu-primary:active {
+  background-color: #686868;
+}
